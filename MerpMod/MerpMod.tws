@@ -1,0 +1,47 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"MerpMod" 
+[GENERAL_DATA]
+"BuildMultipleSettings" "" 
+"ECXLABEL_LAST_FINDS_DATA" "" 
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Dev\MerpMod\MerpMod\ecuhacks\CustomCan.c" 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\Initializer.c" 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\InputHandler.c" 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\WideBand.c" 
+"C:\Dev\MerpMod\MerpMod\include\enums.h" 
+"C:\Dev\MerpMod\MerpMod\include\Externs.h" 
+"C:\Dev\MerpMod\MerpMod\include\IDATranslation.h" 
+"C:\Dev\MerpMod\MerpMod\include\RamVariables.h" 
+"C:\Dev\MerpMod\MerpMod\include\Switch.h" 
+"C:\Dev\MerpMod\MerpMod\tables\AuxOutputTables.c" 
+"C:\Dev\MerpMod\MerpMod\tables\CustomCanTables.c" 
+"C:\Dev\MerpMod\MerpMod\tables\MiscInputTables.c" 
+"C:\Dev\MerpMod\MerpMod\Targets\AZ1G202G\AZ1G202G.h" 
+"C:\Dev\MerpMod\MerpMod\Targets\AZ1G401V\AZ1G401V.h" 
+"C:\Dev\MerpMod\MerpMod\tests\CustomCanTests.c" 
+"C:\Dev\MerpMod\MerpMod\tests\TestUtilities.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Dev\MerpMod\MerpMod\Targets\AZ1G202G\AZ1G202G.h" 0 0 1727 978 0 14 
+"C:\Dev\MerpMod\MerpMod\Targets\AZ1G401V\AZ1G401V.h" 78 78 1727 627 0 13 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\CustomCan.c" 0 0 1081 567 0 5 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\Initializer.c" 0 0 1159 384 0 10 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\InputHandler.c" 0 0 1159 384 0 6 
+"C:\Dev\MerpMod\MerpMod\ecuhacks\WideBand.c" 0 0 1357 605 0 7 
+"C:\Dev\MerpMod\MerpMod\include\Externs.h" 0 0 1159 384 0 8 
+"C:\Dev\MerpMod\MerpMod\include\IDATranslation.h" 0 0 1211 299 0 3 
+"C:\Dev\MerpMod\MerpMod\include\RamVariables.h" 0 0 1211 299 0 4 
+"C:\Dev\MerpMod\MerpMod\include\Switch.h" 0 0 1357 605 0 2 
+"C:\Dev\MerpMod\MerpMod\include\enums.h" 0 0 1159 384 0 9 
+"C:\Dev\MerpMod\MerpMod\tables\AuxOutputTables.c" 0 0 1155 409 0 0 
+"C:\Dev\MerpMod\MerpMod\tables\CustomCanTables.c" -8 -31 1357 605 1 15 
+"C:\Dev\MerpMod\MerpMod\tables\MiscInputTables.c" 0 0 136 39 0 1 
+"C:\Dev\MerpMod\MerpMod\tests\CustomCanTests.c" 0 0 1159 384 0 12 
+"C:\Dev\MerpMod\MerpMod\tests\TestUtilities.c" 0 0 1159 384 0 11 
+[LOADED_PROJECTS]
+"MerpMod" 
+[END]
