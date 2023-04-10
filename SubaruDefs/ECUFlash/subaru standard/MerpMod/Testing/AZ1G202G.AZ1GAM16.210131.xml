@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rom>
+  <romid>
+    <include>AZ1G202G</include>
+    <memmodel>SH7058</memmodel>
+    <filesize>1048kb</filesize>
+    <xmlid>AZ1G202G.AZ1GAM16.210131</xmlid>
+    <internalidaddress>E1400</internalidaddress>
+    <internalidstring>AZ1G202G.AZ1GAM16.210131</internalidstring>
+    <internalidhex>415A3147323032472E415A3147414D31362E323130313331</internalidhex>
+    <ecuid>5A42784207</ecuid>
+    <make>Subaru</make>
+    <market>EDM</market>
+    <model>Impreza</model>
+    <submodel>STi</submodel>
+    <transmission>MT</transmission>
+    <year>08</year>
+    <flashmethod>subarucan</flashmethod>
+    <checksummodule>subarudbw</checksummodule>
+  </romid>
+  <include>AZ1G202G</include>
+  <table name="Per Gear Target Boost Table 1 Intelligent" address="E1C74">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table 2 Intelligent" address="E1D50">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table 1 Sport" address="E1E2C">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table 2 Sport" address="E1F08">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table 1 Sport Sharp" address="E1FE4">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table 2 Sport Sharp" address="E20C0">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Per Gear Target Boost Table Valet Mode" address="E219C">
+    <table name="X" address="E1C1C" />
+    <table name="Y" address="E1C34" />
+  </table>
+  <table name="Target Boost Compensation Table 1 Intelligent" address="E3D48">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Target Boost Compensation Table 2 Intelligent" address="E3F64">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Target Boost Compensation Table 1 Sport" address="E4180">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Target Boost Compensation Table 2 Sport" address="E439C">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Target Boost Compensation Table 1 Sport Sharp" address="E45B8">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Target Boost Compensation Table 2 Sport Sharp" address="E47D4">
+    <table name="X" address="E3CC8" />
+    <table name="Y" address="E3D08" />
+  </table>
+  <table name="Per Gear Wastegate Table 1 Intelligent" address="E1618">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table 2 Intelligent" address="E16F4">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table 1 Sport" address="E17D0">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table 2 Sport" address="E18AC">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table 1 Sport Sharp" address="E1988">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table 2 Sport Sharp" address="E1A64">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Per Gear Wastegate Table Valet Mode" address="E1B40">
+    <table name="X" address="E15C0" />
+    <table name="Y" address="E15D8" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 1 Intelligent" address="E3020">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 2 Intelligent" address="E323C">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 1 Sport" address="E3458">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 2 Sport" address="E3674">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 1 Sport Sharp" address="E3890">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Max Wastegate Duty Compensation Table 2 Sport Sharp" address="E3AAC">
+    <table name="X" address="E2FA0" />
+    <table name="Y" address="E2FE0" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 1 Intelligent" address="E22F8">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 2 Intelligent" address="E2514">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 1 Sport" address="E2730">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 2 Sport" address="E294C">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 1 Sport Sharp" address="E2B68">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Initial Wastegate Duty Compensation Table 2 Sport Sharp" address="E2D84">
+    <table name="X" address="E2278" />
+    <table name="Y" address="E22B8" />
+  </table>
+  <table name="Mass Airflow Mode" address="E49DC" />
+  <table name="Map Switch Input Mode" address="E9530" />
+  <table name="Map Blending Input Mode" address="E952C" />
+  <table name="Wideband Sensor Input Mode" address="E96EC" />
+  <table name="Fuel Pressure Sensor Input Mode" address="E9700" />
+  <table name="Oil Pressure Sensor Input Mode" address="E9718" />
+  <table name="Oil Temperature Sensor Input Mode" address="E9728" />
+  <table name="Fueling Hack Enable" address="E56AC" />
+  <table name="Fueling Lookup Load/MAP" address="E56B0" />
+  <table name="Boost Hack Enable" address="E66A4" />
+  <table name="Timing Lookup Load/MAP" address="E696C" />
+  <table name="Timing Hack Enable" address="E6968" />
+  <table name="FBKC Flash Speed" address="E55DC" />
+  <table name="FBKC Flash Count" address="E55E0" />
+  <table name="FBKC Severe Knock Flash Speed" address="E55E4" />
+  <table name="FBKC Severe Knock Flash Count" address="E55E8" />
+  <table name="IAM Flash Count" address="E5634" />
+  <table name="IAM Flash Speed" address="E5638" />
+  <table name="Map Blend Out of Range Flash Speed" address="E55FC" />
+  <table name="Map Blend Out of Range Flash Count" address="E5600" />
+  <table name="Lean Boost Flash Speed" address="E5604" />
+  <table name="Lean Boost Flash Count" address="E5608" />
+  <table name="Differential Fuel Pressure Flash Speed" address="E560C" />
+  <table name="Differential Fuel Pressure Flash Count" address="E5610" />
+  <table name="Oil Pressure Flash Speed" address="E5614" />
+  <table name="Oil Pressure Flash Count" address="E5618" />
+  <table name="Oil Temperature Flash Speed" address="E561C" />
+  <table name="Oil Temperature Flash Count" address="E5620" />
+  <table name="EGT Flash Speed" address="E55EC" />
+  <table name="EGT Flash Count" address="E55F0" />
+  <table name="ECT Flash Speed" address="E55F4" />
+  <table name="ECT Flash Count" address="E55F8" />
+  <table name="Injector Duty Cycle Flash Speed" address="E5624" />
+  <table name="Injector Duty Cycle Flash Count" address="E5628" />
+  <table name="Failsafe Fuel Additive" address="E6668" />
+  <table name="Failsafe Fuel Additive Trigger - EGT" address="E666C" />
+  <table name="Failsafe Fuel Additive Trigger - ECT" address="E6670" />
+  <table name="Failsafe Fuel Additive Trigger - Severe Knock" address="E6674" />
+  <table name="Failsafe Fuel Additive Trigger - Lean Boost" address="E6678" />
+  <table name="Map Blend Failsafe Action" address="E9518" />
+  <table name="Failsafe Valet Mode Trigger - EGT" address="E66B0" />
+  <table name="Failsafe Valet Mode Trigger - ECT" address="E66B4" />
+  <table name="Failsafe Valet Mode Trigger - Severe Knock" address="E66B8" />
+  <table name="Failsafe Valet Mode Trigger - Lean Boost" address="E66BC" />
+  <table name="Failsafe Valet Mode Trigger - Fuel Pressure Delta" address="E66C0" />
+  <table name="Failsafe Valet Mode Trigger - Oil Pressure" address="E9740" />
+  <table name="Failsafe Valet Mode Trigger - Oil Temperature" address="E9744" />
+  <table name="Failsafe Valet Mode Trigger - Injector Duty Cycle" address="E66C4" />
+  <table name="ECT Flash Temperature Threshold" address="E562C" />
+  <table name="EGT AF1 Resistance Threshold" address="E564C" />
+  <table name="EGT Load Threshold" address="E5648" />
+  <table name="FBKC Threshold" address="E563C" />
+  <table name="FBKC Severe Knock Threshold" address="E5640" />
+  <table name="FBKC Load Threshold" address="E5644" />
+  <table name="Fuel Pressure Delta Delay" address="E970C" />
+  <table name="Fuel Pressure Delta Threshold" address="E9710" />
+  <table name="Fuel Pressure Delta - Minimum RPM" address="E9714" />
+  <table name="IAM Flash Threshold" address="E5630" />
+  <table name="Injector Pulse Width Calculation" address="E9748" />
+  <table name="Injector Duty Cycle Threshold" address="E5650" />
+  <table name="Map Blend Ratio Boost Content Lock" address="E9528" />
+  <table name="Map Blend Failsafe Low Threshold Voltage" address="E9510" />
+  <table name="Map Blend Failsafe High Threshold Voltage" address="E9514" />
+  <table name="Map Blend Failsafe Delay" address="E951C" />
+  <table name="CANBus ECA Update Failsafe Delay" address="E67A0" />
+  <table name="Oil Pressure Delay" address="E9738" />
+  <table name="Oil Pressure Threshold" address="E9720" />
+  <table name="Oil Pressure - Minimum RPM" address="E9724" />
+  <table name="Oil Temperature Delay" address="E973C" />
+  <table name="Oil Temperature Threshold" address="E9730" />
+  <table name="Oil Temperature - Minimum RPM" address="E9734" />
+  <table name="Lean Boost AFR Threshold" address="E96F8" />
+  <table name="Lean Boost MRP Threshold" address="E96FC" />
+  <table name="Lean Boost Delay" address="E96F4" />
+  <table name="Flat Foot Shift Mode" address="E55AC" />
+  <table name="Flat Foot Shift Delta (Automatic Limit)" address="E55B0" />
+  <table name="Flat Foot Shift Delta (Static Limit)" address="E5594" />
+  <table name="Flat Foot Shift Minimum Speed Threshold" address="E5598" />
+  <table name="Flat Foot Shift Minimum RPM Threshold" address="E559C" />
+  <table name="Map Blending Cranking Fuel Multiplier" address="E917C">
+    <table name="X" address="E9150" />
+    <table name="Y" address="E9110" />
+  </table>
+  <table name="Map Blending Startup Enrichment Multiplier" address="E9364">
+    <table name="X" address="E9338" />
+    <table name="Y" address="E92F8" />
+  </table>
+  <table name="Map Blending Injector Scaling Multiplier" address="E5680">
+    <table name="X" address="E5654" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 1 Intelligent" address="E5840">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 2 Intelligent" address="E5A9C">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 1 Sport" address="E5CF8">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 2 Sport" address="E5F54">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 1 Sport Sharp" address="E61B0">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Primary Open Loop Fueling Table 2 Sport Sharp" address="E640C">
+    <table name="X" address="E5780" />
+    <table name="Y" address="E57E0" />
+  </table>
+  <table name="Map Blending Throttle Tip-In Enrichment Multiplier" address="E8F68">
+    <table name="X" address="E8F3C" />
+    <table name="Y" address="E8EF4" />
+  </table>
+  <table name="Fuel Pressure Sensor Scaling" address="E97D4">
+    <table name="X" address="E97A8" />
+  </table>
+  <table name="Fuel Pressure Sensor Smoothing Factor" address="E9704" />
+  <table name="Base Fuel Pressure" address="E9708" />
+  <table name="Map Blend Input Scaling" address="E9560">
+    <table name="X" address="E9534" />
+  </table>
+  <table name="Map Blend Ratio Smoothing Factor" address="E9520" />
+  <table name="Default Map Blending Ratio" address="E9504" />
+  <table name="Map Switch Input Threshold Low" address="E9508" />
+  <table name="Map Switch Input Threshold High" address="E950C" />
+  <table name="Default Map Switch" address="E9500" />
+  <table name="Map Switch Smoothing Factor" address="E9524" />
+  <table name="Oil Pressure Sensor Scaling" address="E982C">
+    <table name="X" address="E9800" />
+  </table>
+  <table name="Oil Pressure Sensor Smoothing Factor" address="E971C" />
+  <table name="Oil Temperature Sensor Scaling" address="E9884">
+    <table name="X" address="E9858" />
+  </table>
+  <table name="Oil Temperature Sensor Smoothing Factor" address="E972C" />
+  <table name="Wideband Sensor Scaling" address="E977C">
+    <table name="X" address="E9750" />
+  </table>
+  <table name="Wideband Sensor Smoothing Factor" address="E96F0" />
+  <table name="Rev Limit (Redline)" address="E5588" />
+  <table name="Rev Limit (Launch Control)" address="E55A4" />
+  <table name="Launch Control Adjustment Step" address="E55D8" />
+  <table name="Launch Control Fuel Enrichment" address="E571C">
+    <table name="X" address="E56D8" />
+    <table name="Y" address="E56EC" />
+  </table>
+  <table name="Launch Control Fueling Mode" address="E56B4" />
+  <table name="Launch Control Enrichment (Lock Mode)" address="E56B8" />
+  <table name="Default Launch Control Fueling Compensation Multiplier" address="E56BC" />
+  <table name="Launch Control Timing Mode" address="E6964" />
+  <table name="Launch Control Timing Lock" address="E6970" />
+  <table name="Default Launch Control Timing Retard Multiplier" address="E6974" />
+  <table name="Launch Control Timing Retard Table" address="E8C2C">
+    <table name="X" address="E8BE8" />
+    <table name="Y" address="E8BFC" />
+  </table>
+  <table name="Map Blend Curve 1" address="E95B8">
+    <table name="X" address="E958C" />
+  </table>
+  <table name="Map Blend Curve 2" address="E9610">
+    <table name="X" address="E95E4" />
+  </table>
+  <table name="Map Blend Curve 3" address="E9668">
+    <table name="X" address="E963C" />
+  </table>
+  <table name="Map Blend Curve 4" address="E96C0">
+    <table name="X" address="E9694" />
+  </table>
+  <table name="Open Loop Fueling Blend Curve" address="E94E0" />
+  <table name="Closed Loop Fueling Blend Curve" address="E94E4" />
+  <table name="Base Timing Blend Curve" address="E94E8" />
+  <table name="Knock Control Blend Curve" address="E94EC" />
+  <table name="Wastegate Duty Blend Curve" address="E94F0" />
+  <table name="Boost Blend Curve" address="E94F4" />
+  <table name="Mass Airflow Blend Curve" address="E94F8" />
+  <table name="Speed Density Blend Curve" address="E94FC" />
+  <table name="Engine Load Smoothing Factor A" address="C29C0" />
+  <table name="Engine Load Smoothing Factor B" address="C29BC" />
+  <table name="Engine Load Smoothing Factor Alternate" address="C29B8" />
+  <table name="Engine Load Smoothing Factor Final" address="C29CC" />
+  <table name="Volumetric Efficiency Table 1" address="E4AC4">
+    <table name="X" address="E4A04" />
+    <table name="Y" address="E4A64" />
+  </table>
+  <table name="Volumetric Efficiency Table 2" address="E4F60">
+    <table name="X" address="E4A04" />
+    <table name="Y" address="E4A64" />
+  </table>
+  <table name="Atmospheric Pressure Compensation" address="E5434">
+    <table name="X" address="E53FC" />
+    <table name="Y" address="E5418" />
+  </table>
+  <table name="SD Blending Table" address="E5504">
+    <table name="X" address="E54B4" />
+    <table name="Y" address="E54DC" />
+  </table>
+  <table name="Engine Displacement" address="E49E8" />
+  <table name="Speed Density Constant" address="E49E4" />
+  <table name="Exhaust Cutout Valve Output Table Intelligent" address="E8D44">
+    <table name="X" address="E8CE4" />
+    <table name="Y" address="E8D14" />
+  </table>
+  <table name="Exhaust Cutout Valve Output Table Sport" address="E8DD4">
+    <table name="X" address="E8CE4" />
+    <table name="Y" address="E8D14" />
+  </table>
+  <table name="Exhaust Cutout Valve Output Table Sport Sharp" address="E8E64">
+    <table name="X" address="E8CE4" />
+    <table name="Y" address="E8D14" />
+  </table>
+  <table name="ECU Identifier" address="D4C4C" />
+  <table name="Base Timing Table 1 Intelligent" address="E6C68">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Base Timing Table 2 Intelligent" address="E6EA8">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Base Timing Table 1 Sport" address="E76E8">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Base Timing Table 2 Sport" address="E7928">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Base Timing Table 1 Sport Sharp" address="E8168">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Base Timing Table 2 Sport Sharp" address="E83A8">
+    <table name="X" address="E6BA8" />
+    <table name="Y" address="E6C08" />
+  </table>
+  <table name="Timing Compensation A (IAT) Table 1" address="E6B58">
+    <table name="Y" address="E6AD8" />
+  </table>
+  <table name="Timing Compensation A (IAT) Table 2" address="E6B68">
+    <table name="Y" address="E6B18" />
+  </table>
+  <table name="Feedback Knock Correction Blended Retard Value 1" address="E6978" />
+  <table name="Feedback Knock Correction Blended Retard Value 2" address="E697C" />
+  <table name="Feedback Knock Correction Blended Retard Value Alternate 1" address="E6980" />
+  <table name="Feedback Knock Correction Blended Retard Value Alternate 2" address="E6984" />
+  <table name="Knock Correction Retard Table 1 Intelligent" address="E71A8">
+    <table name="X" address="E70E8" />
+    <table name="Y" address="E7148" />
+  </table>
+  <table name="Knock Correction Retard Table 2 Intelligent" address="E74A8">
+    <table name="X" address="E73E8" />
+    <table name="Y" address="E7448" />
+  </table>
+  <table name="Knock Correction Retard Table 1 Sport" address="E7C28">
+    <table name="X" address="E7B68" />
+    <table name="Y" address="E7BC8" />
+  </table>
+  <table name="Knock Correction Retard Table 2 Sport" address="E7F28">
+    <table name="X" address="E7E68" />
+    <table name="Y" address="E7EC8" />
+  </table>
+  <table name="Knock Correction Retard Table 1 Sport Sharp" address="E86A8">
+    <table name="X" address="E85E8" />
+    <table name="Y" address="E8648" />
+  </table>
+  <table name="Knock Correction Retard Table 2 Sport Sharp" address="E89A8">
+    <table name="X" address="E88E8" />
+    <table name="Y" address="E8948" />
+  </table>
+</rom>
